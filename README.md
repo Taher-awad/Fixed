@@ -65,11 +65,6 @@ cd frontend
 mvn javafx:run
 ```
 
-## 👥 Contributors
-
-- **Khalid Abdelsalam Mohamed**
-- **Abdelrahman Amr Mohamed**
-- **Taher Abdelbary Abdelmalek**
 
 ---
 *Created as a Final Project for CSE352 Systems Analysis & Design at Alamein International University.*
